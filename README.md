@@ -59,7 +59,7 @@
 
 对于需要大量 **虚拟手机号** 的用户、开发者和软件测试人员来说，5SIM 提供了比较方便的号码选择和 SMS 接收功能。
 
-![5SIM 虚拟手机号接码平台](https://sms-man.com/cn?ref=zemazemazema))
+[5SIM 虚拟手机号接码平台](https://sms-man.com/cn?ref=zemazemazema)
 
 ---
 
