@@ -38,7 +38,7 @@
 
 [https://5sim.net/](https://sms-man.com/cn?ref=zemazemazema)
 
-https://5sim.net/media/preview/en/SignIn.png
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/979e0c90-7f33-459a-8f33-05caad446ac5" />
 
 ---
 
@@ -84,7 +84,7 @@ https://5sim.net/media/preview/en/SignIn.png
 
 完成验证码接收后，该虚拟号码通常会按照订单规则结束使用。
 
-https://5sim.net/media/preview/en/Home.png
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/3d8c5cf9-65bf-44de-98bb-7fc5daf6b0ac" />
 
 ---
 
